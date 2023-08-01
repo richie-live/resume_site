@@ -21,5 +21,7 @@ tags:
 ## 仿真结果
 
 使用经典RRT算法和改进RRT算法进行姿态规划，仿真结果如下：
+
 ![路径对比图](path_compare.png)
+
 ![力矩对比图](u_compare.png)

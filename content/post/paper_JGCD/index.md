@@ -22,5 +22,7 @@ The problem of attitude planning for spacecraft with movable parts under complex
 ## Simulation Results
 
 ![Alt text](path_case1.png)
+
 ![Alt text](traj_case1.png)
+
 ![Alt text](montecarlo.png)

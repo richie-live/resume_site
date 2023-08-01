@@ -36,4 +36,5 @@ Furthermore, the performance indicator for energy consumption is better.
 ## Simulation Results
 
 ![Alt text](traj.png)
+
 ![Alt text](path_compare.png)
