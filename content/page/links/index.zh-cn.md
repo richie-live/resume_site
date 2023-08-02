@@ -1,8 +1,8 @@
 ---
-title: Links
+title: 链接
 links:
   - title: GitHub
-    description: GitHub is the world's largest software development platform.
+    description: GitHub是世界上最大的开发平台。
     website: https://github.com
     image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:

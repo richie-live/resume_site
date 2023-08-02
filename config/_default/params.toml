@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/favicon.ico"
 
 [footer]
-since = 2020
-customText = "我是范宇麒范宇麒范宇麒"
+since = 1999
+customText = "此生之后，将是那慢慢无涯的永恒"
 
 [dateFormat]
 published = "Jan 02, 2006"
@@ -14,7 +14,7 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 
 [sidebar]
 emoji = "🍥"
-subtitle = "这是范宇麒的个人网站。"
+subtitle = "Step by step"
 
 [sidebar.avatar]
 enabled = true
