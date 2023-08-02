@@ -9,9 +9,9 @@ hidden: false
 comments: true
 draft: true
 categories:
-    - 论文
+    - Thesis
 tags:
-    - 航天控制
+    - Aerospace control
 ---
 
 ## 摘要

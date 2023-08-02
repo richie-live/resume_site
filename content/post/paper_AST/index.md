@@ -9,7 +9,7 @@ hidden: false
 comments: true
 draft: true
 categories:
-    - 论文
+    - Thesis
 tags:
     - AST
     - Major Revision

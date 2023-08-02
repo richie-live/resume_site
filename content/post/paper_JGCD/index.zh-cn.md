@@ -12,7 +12,7 @@ categories:
     - 论文
 tags:
     - JGCD
-    - Minor Revision
+    - 小修
 ---
 
 ## Introduction

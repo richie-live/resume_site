@@ -12,7 +12,7 @@ categories:
     - 论文
 tags:
     - AST
-    - Major Revision
+    - 大修
 ---
 
 ## Introduction
